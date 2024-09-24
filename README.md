@@ -88,3 +88,9 @@ Ataques, ameaças, violência, pornografia, spoofing, sniffer, defacement, disse
 ![alt text](image-11.png)
 ![alt text](image-12.png)
 ![alt text](image-13.png)
+> Módulo 4
+### Segurança em IA Generativa
+![alt text](image-14.png)
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
