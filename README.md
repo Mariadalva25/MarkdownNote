@@ -40,7 +40,15 @@ Demanda estável e acesso permanente ao ambiente e aos sistemas.
   
  ![imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh22DLussOklx5v7sWWgj6XZJ531k7JGmzIQ&s)
 
-
-
-
-
+* Módulo 1:
+  ### níveis de Classificação
+  * Confidencial
+  
+  Informações altamente sigilosas
+  * Restrita
+  
+   São informações exclusivas de alguns funcionários e/ou determinadas aréas.
+  * interna
+  São informações que remetem aos funcionários, estágiarios, pretadores de serviços da empresas e precisam de cuidados para evitam a divulgação externa.
+* Pública
+  São informações que podem ser divulgadas sem restrições para o público em geral.
