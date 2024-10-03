@@ -68,11 +68,11 @@ Demanda estável e acesso permanente ao ambiente e aos sistemas.
   > Módulo 3
   ### Boas Práticas e diretrizes
   Conheça alguns dos dilemas de segurança mais comuns em nosso dia-a-dia e saiba como lidar da melhor maneira para evitar interrupções, destruição ou modificação não autorizados, acesso e uso indevido ao trabalho que você tem se dedicado tanto.
- (![alt text](image.png)
- ![alt text](image-1.png)
- ![alt text](image-2.png)
- ![alt text](image-3.png)
- ![alt text](image-4.png)
+![alt text](image.png)
+![image.png](image.png)]
+![image-2.png](imagens/image-2.png)
+![image-3.png](imagens/image-3.png)
+![image-4.png](imagens/image-4.png)
 
  Quando precisar trafegar informação sensível, procure pelo "cadeadinho"!
 
@@ -80,15 +80,15 @@ Conteúdo ilícito? Uma lista pra você se lembrar, mas não limitada a esta.
 
 Ataques, ameaças, violência, pornografia, spoofing, sniffer, defacement, disseminação de vírus, worms, trojans, spywares, spam, roubo de informação, espionagem, sabotagem, destruição, divulgação e alteração de informações não autorizadas, pirataria, engenharia reversa e/ou depuração de código não autorizado.​​​​​​​
 
- ![image-1.png] (imagens/image-1.png)
-![image-10.png] ( imagens/image-10.png)
-![image-11.png] (imagens/image-11.png)
-![image-12.png]  ( imagens/image-12.png)
-![image-13.png]  (imagens/image-13.png)
+![image-1.png](imagens/image-1.png)
+![image-10.png]( imagens/image-10.png)
+![image-11.png](imagens/image-11.png)
+![image-12.png]( imagens/image-12.png)
+![image-13.png](imagens/image-13.png)
 > Módulo 4
 ### Segurança em IA Generativa
-![image-14.png] (imagens/image-14.png)
+![image-14.png](imagens/image-14.png)
 ![image-15.png](imagens/image-15.png)
-![image-16.png] (imagens/image-16.png)
-![image-17.png] (imagens/image-17.png)
-![image.png] (imagens/image.png)
+![image-16.png](imagens/image-16.png)
+![image-17.png](imagens/image-17.png)
+![image.png](imagens/image.png)
