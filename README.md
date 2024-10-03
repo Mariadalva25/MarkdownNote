@@ -68,7 +68,7 @@ Demanda estável e acesso permanente ao ambiente e aos sistemas.
   > Módulo 3
   ### Boas Práticas e diretrizes
   Conheça alguns dos dilemas de segurança mais comuns em nosso dia-a-dia e saiba como lidar da melhor maneira para evitar interrupções, destruição ou modificação não autorizados, acesso e uso indevido ao trabalho que você tem se dedicado tanto.
-![alt text](image.png)
+
 ![image.png](image.png)]
 ![image-2.png](imagens/image-2.png)
 ![image-3.png](imagens/image-3.png)
@@ -91,4 +91,3 @@ Ataques, ameaças, violência, pornografia, spoofing, sniffer, defacement, disse
 ![image-15.png](imagens/image-15.png)
 ![image-16.png](imagens/image-16.png)
 ![image-17.png](imagens/image-17.png)
-![image.png](imagens/image.png)
