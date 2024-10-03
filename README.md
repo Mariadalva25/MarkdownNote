@@ -69,7 +69,7 @@ Demanda estável e acesso permanente ao ambiente e aos sistemas.
   ### Boas Práticas e diretrizes
   Conheça alguns dos dilemas de segurança mais comuns em nosso dia-a-dia e saiba como lidar da melhor maneira para evitar interrupções, destruição ou modificação não autorizados, acesso e uso indevido ao trabalho que você tem se dedicado tanto.
 
-![image.png](image.png)]
+![image.png](imagens/image.png)
 ![image-2.png](imagens/image-2.png)
 ![image-3.png](imagens/image-3.png)
 ![image-4.png](imagens/image-4.png)
