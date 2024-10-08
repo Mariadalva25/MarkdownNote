@@ -54,10 +54,81 @@ O nonce é um valor númerico sem significado que é adicionado a cada blockchai
 ## O que significa ter bitcoins?
 Basicamente que o banco promete para você que na hora que precisar  irá lhe devolver o seu dinheiro. No bitcoin você não tem uma conta ou saldo, o que você tem são moedas que foram criadas e que apontam uma chave pública que você controla.
 Significa que moedas foram criadas endereçadas a sua chave pública e você ainda não usou essas moedas.
-  A chave secreta é o que te dá a possibilidade de gastar as moedas que estão apontando para aquela chave e serve para assinar.
+A chave secreta é o que te dá a possibilidade de gastar as moedas que estão apontando para aquela chave e serve para assinar.
   Então basicamente ter bitcoin significa saber uma chave seccreta que seja associada uma chave pública.
   # Carteiras(Wallets)
   Sâo software que vão te ajudar a guardar a sua chave secreta e realizar transações usando bitcoin.
+# caracterísiticas
+- Disponibilidade
+- segurança 
+- conveniência
+  # Principais Carteiras
+  **Papel** (a mais simples de totas): Bem parecida com exemplo de chave secreta e chave pública.Literalmente, um pedaço de papel com chave pública e privada.
+  
+ * Tão seguro quanto o papel
+ * Imune a hackers
+ * Incoveniente para transações
+ * Cada carteira tem apenas um par CP/CS
+# Carteira Hardware
+* Grande variedade
+* Extremamente segurança: armazena a chave seccreta em Hardware
+* Interface segura com computador
+* Recuperação das moedas e outros serviços 
+* Permite múltiplos pares CP/CS
+  # Carteira Software
+* Desktop ou mobile
+* Permite múltiplos pares CP/CS
+* Recuperção das moedas e outros serviços
+* Tão seguro quanto o seu computador ou smartphone
+* Muitos são adaptados a mais de um tipo dde moeda
+  # Carteira Online
+* Mais prática e mais arriscadas
+*  As informações estão armazenadas em nuvem
+  # Exchanges
+  funciona como um intermediario entre vendedores e compradores de ativos digitais.
+  ## Como negociar criptomoedas
+* Na prática, as criptomoedas são ativos como qualquer outro: ações, ouro...
+* São comprados em exchanges, parecidas com bolsas de valores.
+* Basicamente um site.
+* Exitem diversas exchanges no mercado, inclusive com negociação em real.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
